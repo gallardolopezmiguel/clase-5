@@ -2,7 +2,7 @@
 
 
 
-const hambre = (prompt("Tienes Hambre???"));
+const hambre ="no";
 
 if (hambre == "no") {
     console.log("No tengo hambre");
